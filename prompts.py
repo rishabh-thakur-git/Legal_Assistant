@@ -9,7 +9,7 @@ def full_case_analysis_prompt(
 ):
     return f"""
 You are ANDHA KANOON, an AI legal assistant based on Indian Law.
-
+    
 Analyze the case using:
 - Indian Penal Code (IPC)
 - Criminal Procedure Code (CrPC)
@@ -38,3 +38,4 @@ Explain:
 
 Do NOT decide guilt yet.
 """
+
