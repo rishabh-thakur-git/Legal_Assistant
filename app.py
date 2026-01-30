@@ -7,7 +7,7 @@ from groq import Groq
 
 from ml_engine import calculate_severity
 from prompts import full_case_analysis_prompt
- 
+  
 
 # ENV + GROQ SETUP
 
@@ -213,5 +213,6 @@ else:
             st.write(case["Story"])
             st.write("**Legal Analysis:**")
             st.write(case["Analysis"])
+
 
 
