@@ -114,24 +114,39 @@ This system is built for **legal awareness, academic demonstration, and ethical 
 
 **Andha Kanoon** showcases how **technology can be responsibly used to make law more understandable**, while respecting ethical boundaries and legal seriousness.
 
+## 🚀 Features
+
+Below are the some ScreenShot are attached
+
+
 <img width="1902" height="947" alt="1" src="https://github.com/user-attachments/assets/8291b69e-c74a-47cc-84dc-dc3442507c2a" />
+
 
 <img width="1523" height="361" alt="2" src="https://github.com/user-attachments/assets/b5f28e01-22ed-4a94-8dce-f90e699926d1" />
 
+
 <img width="1441" height="723" alt="3" src="https://github.com/user-attachments/assets/530fc14f-a500-4af0-8fef-e31e5a9c0f7e" />
+
 
 <img width="1906" height="1023" alt="4" src="https://github.com/user-attachments/assets/59e774dc-8c4d-436d-9c4d-cafae9a4ef57" />
 
+
 <img width="1911" height="997" alt="5" src="https://github.com/user-attachments/assets/8162e13f-5216-40b7-b283-3aa3be673284" />
+
 
 <img width="1906" height="1040" alt="6" src="https://github.com/user-attachments/assets/857f901a-462f-4030-9ba3-447b4314674d" />
 
+
 <img width="1907" height="1035" alt="7" src="https://github.com/user-attachments/assets/2ffe9c48-9fc9-4694-977a-379d6f0f1bca" />
+
 
 <img width="1890" height="1007" alt="8" src="https://github.com/user-attachments/assets/5c818e52-9fbb-4d20-a870-375912f25be3" />
 
+
 <img width="1918" height="1028" alt="9" src="https://github.com/user-attachments/assets/8358a648-3fb1-4ecd-affa-86437fac2ba0" />
 
+
 <img width="1910" height="1028" alt="10" src="https://github.com/user-attachments/assets/73fcf6ec-3522-47a2-97ba-774ab51e0d9b" />
+
 
 
