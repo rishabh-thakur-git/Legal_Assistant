@@ -114,9 +114,8 @@ This system is built for **legal awareness, academic demonstration, and ethical 
 
 **Andha Kanoon** showcases how **technology can be responsibly used to make law more understandable**, while respecting ethical boundaries and legal seriousness.
 
-## 🚀 Features
+## Below are the some ScreenShot are attached
 
-Below are the some ScreenShot are attached
 
 
 <img width="1902" height="947" alt="1" src="https://github.com/user-attachments/assets/8291b69e-c74a-47cc-84dc-dc3442507c2a" />
@@ -147,6 +146,7 @@ Below are the some ScreenShot are attached
 
 
 <img width="1910" height="1028" alt="10" src="https://github.com/user-attachments/assets/73fcf6ec-3522-47a2-97ba-774ab51e0d9b" />
+
 
 
 
